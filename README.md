@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jaco — the Network Entropologist
+# 👋 Hi, I'm Jaco — AKA The Network Entropologist
 Formerly known on GitHub as @jaco1982
 
 🧠 Network engineer, Python enthusiast, and curious observer of digital entropy.  
