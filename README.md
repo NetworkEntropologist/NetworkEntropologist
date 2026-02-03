@@ -21,8 +21,8 @@ Formerly known on GitHub as @jaco1982
 
 ### 🧰 Featured Projects
 
-- **[fortinet-wrapper](https://github.com/HBNetNetworks/fortinet-wrapper)** _(WIP)_  
-  API wrapper for basic Fortinet API interaction
+- **[fortiapipy](https://github.com/NetworkEntropologist/fortiapipy)** _(WIP)_  
+  A Python Fortinet API client
 
 - **[IPv4 Subnet Calculator](https://github.com/NetworkEntropologist/IPv4-Subnet-Calc)**  
   A custom-built Python subnet calculator CLI with validation, slicing, and bitwise ops
@@ -45,4 +45,11 @@ Formerly known on GitHub as @jaco1982
 
 ❄️ Some of my code is stored in a vault near the North Pole.  
 No, really — I’m an [Arctic Code Vault Contributor](https://archiveprogram.github.com/), credited under my old GitHub handle.
+
+---
+
+© 2006 Jaco du Plessis (The Network Entropologist). All rights reserved.
+
+This repository, including all text, code snippets, and brand-related content, is the intellectual property of the author.  
+Reproduction, distribution, commercial use, or inclusion in AI training, datasets, or generative systems without the author’s explicit permission is strictly prohibited.
 
